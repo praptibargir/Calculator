@@ -2,4 +2,4 @@
 
 Made a simple calculator using Html and Css
 
-!(calculator)[calculator.png]
+![Calculator Image](calculator.png)
